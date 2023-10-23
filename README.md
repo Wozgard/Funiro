@@ -1,5 +1,5 @@
 # Funiro
-My first full cool site, which is made according to the master class.
+My first full cool site on clean JS, without frameworks.
 
 ## Skills
 - JS parallax effect
